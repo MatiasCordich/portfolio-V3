@@ -34,7 +34,7 @@
     "Description": "Some projects I've been working on lately",
     "cards": [
       {
-        "image": "../../../src/assets/img-01.webp",
+        "image": "/assets/img-01.webp",
         "title": "Notes",
         "text": "Landing Page where material from the subjects of the university I attend is stored.",
         "tags": [
@@ -46,7 +46,7 @@
         "link2": "https://apuntesunlz.vercel.app/"
       },
       {
-        "image": "/src/assets/img-06.webp",
+        "image": "/assets/img-06.webp",
         "title": "ABM 'Patitas'",
         "text": "University project focused on developing an ABM management system for a fictional veterinary.",
         "tags": [
@@ -58,7 +58,7 @@
         "link2": ""
       },
       {
-        "image": "/src/assets/img-02.webp",
+        "image": "/assets/img-02.webp",
         "title": "Weather App",
         "text": "Simple web application showing real-time weather using the OpenWeather API.",
         "tags": [
@@ -71,7 +71,7 @@
         "link2": "https://react-weather-app-two-pi.vercel.app/"
       },
       {
-        "image": "/src/assets/img-03.webp",
+        "image": "/assets/img-03.webp",
         "title": "Eco Woods",
         "text": "Landing Page for a fictional home furniture store.",
         "tags": [
@@ -83,7 +83,7 @@
         "link2": "https://eco-woods.vercel.app/"
       },
       {
-        "image": "/src/assets/img-04.webp",
+        "image": "/assets/img-04.webp",
         "title": "YerbaTech",
         "text": "Website for the software company Yerba Tech.",
         "tags": [
@@ -97,7 +97,7 @@
         "link2": "https://yerba.tech/"
       },
       {
-        "image": "/src/assets/img-05.webp",
+        "image": "/assets/img-05.webp",
         "title": "Ututo",
         "text": "Web project for the Linux Operating System Ututo.",
         "tags": [

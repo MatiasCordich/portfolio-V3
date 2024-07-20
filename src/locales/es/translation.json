@@ -34,7 +34,7 @@
     "Description": "Algunos proyectos en los que he estado trabajando últimamente.",
     "cards": [
         {
-            "image": "../../../public/img-01.webp",
+            "image": "/assets/img-01.webp",
             "title": "Apuntes",
             "text": "Landing Page donde se guarda material de las materias de la facultad en la que curso.",
             "tags": ["Astro", "Javascript", "Notion"],
@@ -42,7 +42,7 @@
             "link2": "https://apuntesunlz.vercel.app/"
           },
           {
-            "image": "/src/assets/img-06.webp",
+            "image": "/assets/img-06.webp",
             "title": "ABM 'Patitas'",
             "text": "Proyecto universitario orientado al desarrollo de un sistema de gestión tipo ABM de una veterinaria ficticia.",
             "tags": ["C#", "V.Basic .NET", "SQL"],
@@ -50,7 +50,7 @@
             "link2": ""
           },
           {
-            "image": "/src/assets/img-02.webp",
+            "image": "/assets/img-02.webp",
             "title": "App del Clima",
             "text": "Simple aplicación web donde se muestra el estado del tiempo en tiempo real utilizando la API OpenWeather.",
             "tags": ["React", "Framer Motion", "Styled Components", "Weather API"],
@@ -58,7 +58,7 @@
             "link2": "https://react-weather-app-two-pi.vercel.app/"
           },
           {
-            "image": "/src/assets/img-03.webp",
+            "image": "/assets/img-03.webp",
             "title": "Eco Woods",
             "text": "Landing Page de un comercio ficticio de venta de muebles para el hogar.",
             "tags": ["Vite", "React", "Framer Motion"],
@@ -66,7 +66,7 @@
             "link2": "https://eco-woods.vercel.app/"
           },
           {
-            "image": "/src/assets/img-04.webp",
+            "image": "/assets/img-04.webp",
             "title": "YerbaTech",
             "text": "Página web para la compañía de Software Yerba Tech.",
             "tags": ["HTML", "CSS", "Javascript", "JQuery", "PHP"],
@@ -74,7 +74,7 @@
             "link2": "https://yerba.tech/"
           },
           {
-            "image": "/src/assets/img-05.webp",
+            "image": "/assets/img-05.webp",
             "title": "Ututo",
             "text": "Proyecto web para el Sistema Operativo Linux Ututo.",
             "tags": ["HTML", "CSS", "Javascript", "React"],
