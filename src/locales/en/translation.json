@@ -1,0 +1,175 @@
+{
+  "header": {
+    "name": "Matias",
+    "surname": "Sio Cordich",
+    "description": "I like to design and create ",
+    "frontendDeveloper": "Frontend Developer",
+    "simple": "simple",
+    "easy": "easy",
+    "and": "and ",
+    "scalable": "scalable",
+    "products": "products.",
+    "resume": "Resume",
+    "resume_en": "Resume (EN)"
+  },
+  "navbar": {
+    "home": "Home",
+    "projects": "Projects",
+    "education": "Education",
+    "technologies": "Skills",
+    "contact": "Contact"
+  },
+  "profile": {
+    "title": "Profile",
+    "introduction": "Hello! My name is Matias. I live in Buenos Aires, Argentina.",
+    "text_1": "I started back in 2021 as a self-taught learner, as a way to explore and combine my two passions, computing and design.",
+    "text_2": "After 2 years of being self-taught, I knew which path I wanted to follow and dedicate myself to, so I decided to start university with the goal of becoming a professional.",
+    "text_3": "Currently, I work in the field of web development, specializing in Frontend.",
+    "text_4": "I am also in the process of learning and deepening my knowledge in the development of web and desktop applications to expand my skills in these technologies.",
+    "text_5": "Would you like to know what I have been up to lately? :D",
+    "button_text": "Take a look"
+  },
+  "proyects": {
+    "title": "Proyects",
+    "Description": "Some projects I've been working on lately",
+    "cards": [
+      {
+        "image": "/src/assets/img-01.webp",
+        "title": "Notes",
+        "text": "Landing Page where material from the subjects of the university I attend is stored.",
+        "tags": [
+          "Astro",
+          "Javascript",
+          "Notion"
+        ],
+        "link1": "https://github.com/MatiasCordich/apuntes-web",
+        "link2": "https://apuntesunlz.vercel.app/"
+      },
+      {
+        "image": "/src/assets/img-06.webp",
+        "title": "ABM 'Patitas'",
+        "text": "University project focused on developing an ABM management system for a fictional veterinary.",
+        "tags": [
+          "C#",
+          "V.Basic .NET",
+          "SQL"
+        ],
+        "link1": "https://github.com/MatiasCordich/Programacion-III-UNLZ/tree/main/ABMVeterinaria",
+        "link2": ""
+      },
+      {
+        "image": "/src/assets/img-02.webp",
+        "title": "Weather App",
+        "text": "Simple web application showing real-time weather using the OpenWeather API.",
+        "tags": [
+          "React",
+          "Framer Motion",
+          "Styled Components",
+          "Weather API"
+        ],
+        "link1": "https://github.com/MatiasCordich/react-weather-app",
+        "link2": "https://react-weather-app-two-pi.vercel.app/"
+      },
+      {
+        "image": "/src/assets/img-03.webp",
+        "title": "Eco Woods",
+        "text": "Landing Page for a fictional home furniture store.",
+        "tags": [
+          "Vite",
+          "React",
+          "Framer Motion"
+        ],
+        "link1": "https://github.com/MatiasCordich/eco-woods-landing-page",
+        "link2": "https://eco-woods.vercel.app/"
+      },
+      {
+        "image": "/src/assets/img-04.webp",
+        "title": "YerbaTech",
+        "text": "Website for the software company Yerba Tech.",
+        "tags": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "JQuery",
+          "PHP"
+        ],
+        "link1": "",
+        "link2": "https://yerba.tech/"
+      },
+      {
+        "image": "/src/assets/img-05.webp",
+        "title": "Ututo",
+        "text": "Web project for the Linux Operating System Ututo.",
+        "tags": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "React"
+        ],
+        "link1": "https://github.com/ututolinux/sitioWeb",
+        "link2": "https://ututo.ar/"
+      }
+    ]
+  },
+  "technologies": {
+    "title": "Technologies",
+    "description": "Some of the technologies I have been working with recently.",
+    "stack": [
+      {
+        "Title": "Programming",
+        "Stack": [
+          "Javascript",
+          "Typescript",
+          "Java",
+          "C",
+          "C#",
+          "Visual Basic .NET"
+        ]
+      },
+      {
+        "Title": "Frontend",
+        "Stack": [
+          "HTML",
+          "CSS",
+          "React",
+          "Astro",
+          "Styled Components",
+          "Boostrap"
+        ]
+      },
+      {
+        "Title": "Backend",
+        "Stack": [
+          "Node JS",
+          "Express",
+          "Mongoose",
+          "SQL"
+        ]
+      },
+      {
+        "Title": "Databases",
+        "Stack": [
+          "MySQL",
+          "MongoDB",
+          "SQL Express"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "university": "University of Lomas de Zamora",
+    "year": "(2023 - now)",
+    "key_1": "Degree:",
+    "key_2": "Specialization:",
+    "key_3": "Additional Studies:",
+    "value_1": "Computer Programming Technician",
+    "value_2": "Web Development, Web Applications, Desktop Applications, OOP (Object-Oriented Programming), and Databases (SQL)",
+    "value_3": "Security, Operating Systems, and Computer Architectures"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Thank you for visiting my portfolio!",
+    "text": "Got a project? Let's collaborate!"
+  }
+}
