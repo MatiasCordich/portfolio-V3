@@ -34,7 +34,7 @@
     "Description": "Some projects I've been working on lately",
     "cards": [
       {
-        "image": "/src/assets/img-01.webp",
+        "image": "../../../src/assets/img-01.webp",
         "title": "Notes",
         "text": "Landing Page where material from the subjects of the university I attend is stored.",
         "tags": [
