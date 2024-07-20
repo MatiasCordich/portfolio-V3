@@ -34,7 +34,7 @@
     "Description": "Algunos proyectos en los que he estado trabajando últimamente.",
     "cards": [
         {
-            "image": "/src/assets/img-01.webp",
+            "image": "../../../public/img-01.webp",
             "title": "Apuntes",
             "text": "Landing Page donde se guarda material de las materias de la facultad en la que curso.",
             "tags": ["Astro", "Javascript", "Notion"],
