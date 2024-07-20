@@ -39,14 +39,14 @@ const Header = () => {
       </HeaderLinks>
       <ResumeContainer>
         <ResumeLink
-          href="/src/files/Matias Sio Coridich - CV.pdf"
+          href="/files/Matias Sio Coridich - CV.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
           {t("header.resume")}
         </ResumeLink>
         <ResumeLink
-          href="/src/files/Matias Sio Coridich - CV (English).pdf"
+          href="/files/Matias Sio Coridich - CV (English).pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
