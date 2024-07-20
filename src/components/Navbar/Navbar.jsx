@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import {
   HeaderNavLinks,
   HeaderNavLinksPage,
@@ -17,6 +17,7 @@ export const scrollToSection = (id) => {
 };
 
 const Navbar = () => {
+
   const { t } = useTranslation();
   return (
     <Nav>

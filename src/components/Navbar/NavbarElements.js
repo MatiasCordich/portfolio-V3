@@ -26,7 +26,7 @@ export const HeaderNavLinks = styled(HeaderLinks)`
 export const HeaderNavLinksPage = styled(HeaderLinks)`
     text-align: left;
     flex-direction: column;
-    margin-top: 5rem;
+    margin-top: 1.5rem;
 `
 
 export const StyledLink = styled(Link)`

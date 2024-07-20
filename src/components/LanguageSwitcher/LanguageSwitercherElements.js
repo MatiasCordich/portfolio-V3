@@ -14,5 +14,6 @@ export const ButtonLang = styled.button`
   padding: 1rem;
   border-radius: 0.5rem;
   font-weight: 800;
-  cursor: pointer;
+  cursor: ${(props) => (props.disabled ? 'not-allowed' : 'pointer')};
+  opacity: ${(props) => (props.disabled ? 0.5 : 1)};
 `;
