@@ -7,7 +7,7 @@ export const GlobalStyle = createGlobalStyle`
         --font: 'Outfit Variable', sans-serif;
 
         --cream: #FEFAF6;
-        --coffe: #322C2B;
+        --coffe: #1D1616;
     }
 
     *{
